@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "No More Sorrow",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T13:31:19.482792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_No_More_Sorrow_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No More Sorrow - Live from Taipei, 2009",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_No_More_Sorrow_-_Live_from_Taipei,_2009_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No More Sorrow (Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/03_No_More_Sorrow_(Live)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No More Sorrow (live at AOL Sessions)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_No_More_Sorrow_(live_at_AOL_Sessions)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No More Sorrow [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_No_More_Sorrow_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No More Sorrow - Third Encore Session",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_No_More_Sorrow_-_Third_Encore_Session_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No More Sorrow (Explicit)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_No_More_Sorrow_(Explicit)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_No_More_Sorrow_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_No_More_Sorrow_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No More Sorrow - Live",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_No_More_Sorrow_-_Live_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/11_No_More_Sorrow_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No More Sorrow (Live from Third Encore Studio, North Hollywood, CA, 3/14/2007)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_No_More_Sorrow_(Live_from_Third_Encore_Studio,_North_Hollywood,_CA,_3_14_2007)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_No_More_Sorrow_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No More Sorrow (live, Third Encore studio, 2007-03-14: North Hollywood, CA, USA)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_No_More_Sorrow_(live,_Third_Encore_studio,_2007-03-14__North_Hollywood,_CA,_USA)_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No More Sorrow",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_No_More_Sorrow_Linkin_Park.txt"
+    }
+  ]
+}
